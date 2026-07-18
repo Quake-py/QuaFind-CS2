@@ -1,0 +1,27 @@
+﻿# Build outputs
+*.dll
+*.pdb
+*.obj
+*.lib
+*.exp
+*.ilk
+*.log
+x64/
+Debug/
+Release/
+
+# Config files (user-specific)
+*.cfg
+*.qcfg
+
+# VS files
+.vs/
+*.user
+*.suo
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Reference project
+src/internal2ENBABAA/
+src/gunceloffsetler/
