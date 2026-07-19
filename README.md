@@ -220,6 +220,10 @@ src/
 
 ---
 
+## 🌟 Credits
+
+* **[@fientix](https://github.com/fientix)** – general coding help. 
+
 <div align="center">
 <sub>QuaFind -- open source cheat</sub>
 </div>
